@@ -1,6 +1,6 @@
 import { Provider } from '@angular/core';
 
-class Test {}
+export class Test {}
 
 export function TestProvider(): Provider {
   return {
